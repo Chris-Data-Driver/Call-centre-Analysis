@@ -2,7 +2,7 @@
 ![](Customer_Retention.png)
 
 ## Introduction: 
-The project is on a call center data analysis. The project is on the use of Microsoft PowerBI to analyze and visualize reports for Data-Driven Decisions. 
+The project is on a Customer Retention data analysis. The project is on the use of Microsoft PowerBI to analyze and visualize reports for Data-Driven Decisions. 
 
 **_Disclaimer_:** _All the datasets used for this project are from a virtual Internship program from PWC carried out by Forage. The program is aimed to show Aspiring Data Analysts what and how it looks like to work as a Data Analyst._
 
