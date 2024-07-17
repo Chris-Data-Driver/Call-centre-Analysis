@@ -1,8 +1,5 @@
 # Customer Retention Analysis 
-![](Call_Center.jpg)
-1.	Services Each customer Has signed up for  
-2.	Customer Account Information
-3.	Demographic Info about customers
+![](Customer_Retention.png)
 
 ## Introduction: 
 The project is on a call center data analysis. The project is on the use of Microsoft PowerBI to analyze and visualize reports for Data-Driven Decisions. 
@@ -11,7 +8,9 @@ The project is on a call center data analysis. The project is on the use of Micr
 
 ## Problem Statement:
 This project tends to uncover trends in the company Dataset, to help the management take data-driven decisions, the problem this project tends to answer is 
-
+1.  Services Each customer Has signed up for  
+2.	Customer Account Information
+3.	Demographic Info about customers
 
 ## Skills Demonstrated:
 The skills demonstrated in this project include the excellent use of powerBI to perform 
