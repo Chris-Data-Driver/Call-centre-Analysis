@@ -4,7 +4,7 @@
 ## Introduction: 
 The project is on a call center data analysis. The project is on the use of Microsoft PowerBI to analyze and visualize reports for Data-Driven Decisions. 
 
-**_Disclaimer_:** _All the datasets used for this project are from a virtual Internship program from PWC carried out by forage. The program is aimed to show Aspiring Data Analysts what and how it looks like to work as a Data Analyst._
+**_Disclaimer_:** _All the datasets used for this project are from a virtual Internship program from PWC carried out by Forage. The program is aimed to show Aspiring Data Analysts what and how it looks like to work as a Data Analyst._
 
 ## Problem Statement:
 This project tends to uncover trends in the company Dataset, to help the management take data-driven decisions, the problem this project tends to answer is 
@@ -33,7 +33,26 @@ The churn analysis dashboard revealed key insights into customer behavior and ri
 Customer demographics were also analyzed, showing the gender distribution and duration of service subscriptions. The 1-year duration had the highest customer percentage at 53%. Additionally, the analysis examined payment methods, with electronic check being the most used at 57%.
 
 For a comprehensive view, please refer to the detailed analysis image provided below.
-![](Churn Analysis.png)
+![](Churn_Analysis.png)
+
+## Customer Risk Analysis 
+The Customer Risk Analysis examined data from 7043 customers, revealing that 26.54% have churned from the company's services. The analysis segmented customers by various risk factors to better understand and address churn.
+
+For a detailed view, please refer to the image below, which provides clear and comprehensive insights into the analysis.
+![](Customer_Risk_Analysis.png)
+
+## Recommendation:
+1)	Increase tech support capacity for Fiber Optic customers and lower tech tickets per customer to 0.5
+
+2)	Increase sales of 1 and 2-year contracts by 5% each
+
+3)	Yearly increase of automatic payments by 5%
+
+## Conclusion:
+The Call Center Analysis is a virtual internship program by PwC through Forage, completed and certified by Forage.
+
+
+
 
 
 
