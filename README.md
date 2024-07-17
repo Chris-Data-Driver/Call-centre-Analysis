@@ -49,7 +49,7 @@ For a detailed view, please refer to the image below, which provides clear and c
 3)	Yearly increase of automatic payments by 5%
 
 ## Conclusion:
-The Call Center Analysis is a virtual internship program by PwC through Forage, completed and certified by Forage.
+The Call Center Analysis is a virtual internship program by PwC through Forage, completed by __Christopher C Enukoha__ and certified by __Forage._
 
 
 
