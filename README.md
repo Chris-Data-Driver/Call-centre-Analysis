@@ -22,7 +22,7 @@ The skills demonstrated in this project include the excellent use of powerBI to 
 The data for the project was provided by PWC through forage for the virtual internship programme.
 
 ## Analysis:
-![](welcome)
+![](welcome.png)
 
 
 
