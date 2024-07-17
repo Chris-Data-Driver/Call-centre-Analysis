@@ -8,10 +8,7 @@ The project is on a call center data analysis. The project is on the use of Micr
 
 ## Problem Statement:
 This project tends to uncover trends in the company Dataset, to help the management take data-driven decisions, the problem this project tends to answer is 
-1.	Total Number of calls answered/Abandoned 
-2.	Speed of answer 
-3.	Length of calls 
-4.	Overall customer satisfaction.
+
 
 ## Skills Demonstrated:
 The skills demonstrated in this project include the excellent use of powerBI to perform 
