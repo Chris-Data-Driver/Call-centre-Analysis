@@ -1,5 +1,8 @@
-# Call Center Analysis 
+# Customer Retention Analysis 
 ![](Call_Center.jpg)
+1.	Services Each customer Has signed up for  
+2.	Customer Account Information
+3.	Demographic Info about customers
 
 ## Introduction: 
 The project is on a call center data analysis. The project is on the use of Microsoft PowerBI to analyze and visualize reports for Data-Driven Decisions. 
