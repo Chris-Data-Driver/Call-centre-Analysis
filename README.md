@@ -1,5 +1,5 @@
 # Customer Retention Analysis 
-![](Customer_Retention.png)
+![Dashboard View](Customer_Retention.png)
 
 ## Introduction: 
 The project is on a Customer Retention data analysis. The project is on the use of Microsoft PowerBI to analyze and visualize reports for Data-Driven Decisions. 
@@ -32,13 +32,13 @@ The churn analysis dashboard revealed key insights into customer behavior and ri
 Customer demographics were also analyzed, showing the gender distribution and duration of service subscriptions. The 1-year duration had the highest customer percentage at 53%. Additionally, the analysis examined payment methods, with electronic check being the most used at 57%.
 
 For a comprehensive view, please refer to the detailed analysis image provided below.
-![](Churn_Analysis.png)
+![Analysis](Churn_Analysis.png)
 
 ## Customer Risk Analysis 
 The Customer Risk Analysis examined data from 7043 customers, revealing that 26.54% have churned from the company's services. The analysis segmented customers by various risk factors to better understand and address churn.
 
 For a detailed view, please refer to the image below, which provides clear and comprehensive insights into the analysis.
-![](Customer_Risk_Analysis.png)
+![Analysis](Customer_Risk_Analysis.png)
 
 ## Recommendation:
 1)	Increase tech support capacity for Fiber Optic customers and lower tech tickets per customer to 0.5
